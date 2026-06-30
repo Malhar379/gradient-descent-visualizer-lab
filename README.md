@@ -108,7 +108,7 @@ Visualization of the optimization process across training epochs.
 
 ---
 
-# Concepts Learned
+# Concepts Demonstrated
 
 - Representing data using tensors
 - Building neural networks with PyTorch
