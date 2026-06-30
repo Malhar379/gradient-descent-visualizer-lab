@@ -1,4 +1,4 @@
-# Mini PyTorch Learner
+#  Gradient Descent Visualizer
 
 A modular PyTorch project demonstrating how a neural network learns an underlying relationship directly from data using gradient descent.
 
