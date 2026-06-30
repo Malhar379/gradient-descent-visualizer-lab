@@ -138,17 +138,3 @@ python main.py
 ```
 
 ---
-
-# Future Improvements
-
-- Train on nonlinear datasets
-- Experiment with deeper neural networks
-- Compare different optimizers (Adam vs SGD)
-- Add interactive parameter controls
-- Extend to multivariate regression problems
-
----
-
-# Resume Summary
-
-Built and trained a modular PyTorch neural network to learn an underlying linear relationship from data using gradient descent. Implemented forward propagation, loss computation, backpropagation, parameter optimization, and visualized learning through training curves and animated convergence.
