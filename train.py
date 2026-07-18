@@ -3,7 +3,7 @@ import torch.nn as nn
 import copy
 
 
-def train_model(model, x, y, epochs=100, learning_rate=0.01):
+def train_model(model, x, y, epochs=300, learning_rate=0.01):
 
     criterion = nn.MSELoss()
     optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate)
