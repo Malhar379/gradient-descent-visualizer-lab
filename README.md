@@ -156,7 +156,3 @@ python main.py
 - Visualize the actual loss landscape/surface as a function of weight and bias
 
 ---
-
-# Resume Summary
-
-Trained a single-layer linear model via full-batch SGD, reducing MSE loss by 99.98% (6.00 → 0.0011) and converging below a 0.01 loss threshold by epoch 118 of 300. Validated learned parameters against ground truth within 1.31% (weight) and 5.60% (bias) error.
